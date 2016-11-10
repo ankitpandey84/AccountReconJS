@@ -1,14 +1,14 @@
 # AccountReconJS
 
-Basic template for the Redux and react.
-It fully configured for the web pack and buil process.
-React boot strap is also added if not added in the dependencies, Please add the React bootstrap in the dependencies and 
+Basic template for  Redux and React.
+Its fully configured with  web pack and build processes.
+React boot strap is also added if not added in the dependencies, Please add  React Bootstrap in the dependencies and 
 then do npm install.
 
 
 
 Download or clone 
-run the following commands in the command line interface.
+run the following commands at CLI.
 # git clone https://github.com/ankitpandey84/AccounReconjs.git
 # cd AccountReconjs
 # npm install 
