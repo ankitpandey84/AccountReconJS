@@ -9,8 +9,8 @@ then do npm install.
 
 Download or clone.
 Run the following commands at CLI.
-# git clone https://github.com/ankitpandey84/AccountReconJS
-# cd AccountReconjs
+# git clone https://github.com/ankitpandey84/ReactReduxStarter
+# cd ReactReduxStarter
 # npm install 
 # npm start
 open your browser 
