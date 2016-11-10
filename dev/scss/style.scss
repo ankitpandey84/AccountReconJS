@@ -1,0 +1,25 @@
+$primary: #006699;
+
+h2 {
+	color: $primary;
+}
+
+.btn-group
+{
+
+width:100%;
+float:left;
+margin-left: 10px;
+background-color: $primary;
+}
+
+.checkbox
+{
+float:left;
+}
+
+.btn-toolbar{
+
+	float:left;
+	width:100%;
+}
