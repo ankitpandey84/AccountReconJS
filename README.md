@@ -7,8 +7,8 @@ then do npm install.
 
 
 
-Download or clone 
-run the following commands at CLI.
+Download or clone.
+Run the following commands at CLI.
 # git clone https://github.com/ankitpandey84/AccounReconjs.git
 # cd AccountReconjs
 # npm install 
