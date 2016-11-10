@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-template",
+  "name": "react-redux-template-Ak",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.15.2",
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
     "babel-polyfill": "^6.9.1",
@@ -28,8 +29,6 @@
     "redux-promise": "^0.5.3",
     "redux-thunk": "^2.1.0",
     "react-bootstrap": "^0.30.6",
-    "bootstrap": "^3.3.6",
-    "axios": "^0.15.2",
     "sass-loader": "^4.0.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
